@@ -1,0 +1,6 @@
+* My name is Shaurice Nicole Pearson, I'm 29 years old. I have one child, a little boy aged five.
+* I live in San Antonio, Texas but originally from San Diego, California.
+* I first started coding my own HTML pages when MySpace was a thing, but only really been coding since 2016.
+* I attended a coding bootcamp previously to this experience. I learned HTML, CSS, JavaScript, React, and a bit of Node.JavaScript
+* What I hope to get out of Lambda School is further deepening and strengthening the knowledge of programming I have to transition my career from finance into a career in Technology.
+* I want to be able to give back to my community by opening up my own foundation and providing technology skills to women of domestic abuse who in turn have to start their lives over.
